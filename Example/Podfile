@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVImageDownloader_Tests' do
+  pod 'JVImageDownloader', :path => '../'
+  
+  
+end

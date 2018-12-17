@@ -1,0 +1,16 @@
+PODS:
+  - JVImageDownloader (0.1.0)
+
+DEPENDENCIES:
+  - JVImageDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  JVImageDownloader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVImageDownloader: dbea7edb514c57a63dbfe1b0877d3b6544a17790
+
+PODFILE CHECKSUM: 6b8d9b08bbe23e5f96cc70388d679397b408d29c
+
+COCOAPODS: 1.6.0.beta.1
