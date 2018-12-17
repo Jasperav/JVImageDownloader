@@ -4,7 +4,7 @@ import JVConstraintEdges
 
 open class ImageDownloader: UIView {
 
-    private let loader = NVActivityIndicatorView(frame: frame, type: .ballScaleMultiple, color: .black, padding: 0)
+    private let loader = NVActivityIndicatorView(frame: CGRect.zero, type: .ballScaleMultiple, color: .black, padding: 0)
     private let imageView = UIImageView()
     
     public init(NVActivityIndicatorType: NVActivityIndicatorType){
