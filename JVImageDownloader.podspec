@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JVImageDownloader'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of JVImageDownloader.'
 
 # This description is used to generate tags and improve search results.
@@ -33,5 +33,5 @@ TODO: Add long description of the pod here.
   s.source_files = 'JVImageDownloader/Classes/**/*'
   
    s.dependency 'NVActivityIndicatorView'
-s.dependency 'ConstraintEdges'
+s.dependency 'JVConstraintEdges'
 end
